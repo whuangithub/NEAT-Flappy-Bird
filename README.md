@@ -1,3 +1,7 @@
+# For the people who meet this project first time
+Please check the [original project](https://github.com/techwithtim/NEAT-Flappy-Bird)
+I did some experiment with the original code and the code has been modified
+
 # NEAT-Flappy-Bird
 An AI that plays flappy bird! Using the NEAT python module.
 
